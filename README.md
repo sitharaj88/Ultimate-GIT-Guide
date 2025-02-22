@@ -1,6 +1,10 @@
 # Ultimate Git Guide
 
-Welcome to the Ultimate Git Guide! This repository is your one-stop resource for mastering Git. Whether you're just starting out or looking to deepen your expertise, you'll find clear, concise guides covering everything from configuration and basic commands to advanced workflows, security, and troubleshooting.
+![Ultimate Git Guide Banner](images/banner.png)
+
+Welcome to the **Ultimate Git Guide**! This repository is your one-stop resource for mastering Git. Whether you're just starting out or looking to deepen your expertise, you'll find clear, concise guides covering everything from configuration and basic commands to advanced workflows, security, and troubleshooting.
+
+---
 
 ## Table of Contents
 
@@ -55,19 +59,28 @@ Welcome to the Ultimate Git Guide! This repository is your one-stop resource for
    - [Fixing Detached HEAD](08-Troubleshooting/2-detached-head.md)
    - [Cleanup: Prune, GC, & More](08-Troubleshooting/3-cleanup.md)
 
+---
+
 ## Additional Resources
 
 - **Examples:** Explore the [examples](examples/) folder for sample configurations, hook scripts, and merge conflict scenarios.
 - **Sandbox:** Use the [sandbox](sandbox/) directory as your safe space to experiment with Git commands and workflows.
 
+---
+
 ## Getting Started
 
 Pick a section that matches your current needs or interests, and dive into the detailed guides. Each document provides step-by-step instructions, command examples, and best practices to help you get the most out of Git.
+
+---
 
 ## Contributing
 
 Contributions are always welcome! If you have suggestions, corrections, or new topics to add, please feel free to open an issue or submit a pull request. See our [CONTRIBUTING guidelines](CONTRIBUTING.md) for more details.
 
+---
+
 ## License
 
 This project is licensed under the terms outlined in the [LICENSE](LICENSE) file.
+
